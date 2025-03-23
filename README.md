@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Hassan!
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+🔭 **I'm currently improving my skills** in web development and JavaScript.  
+
+💬 **Ask me about** HTML, CSS, Bootstrap, Tailwind, JavaScript, and WordPress.  
+
+⚡ **Fun fact** I prefer fixing CSS issues over writing JavaScript logic!  
 
 ,
 # 💻 Tech Stack:
