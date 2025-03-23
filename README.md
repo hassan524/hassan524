@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Hassan!
 
 🔭 **I'm currently improving my skills**  
+Web development and JavaScript.  
 
 💬 **Ask me about**  
 Javascript, React, Nextjs, Nodejs
