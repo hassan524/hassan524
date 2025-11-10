@@ -6,8 +6,8 @@ Web development and JavaScript.
 💬 **Ask me about**  
 Typescript, React, Nextjs, Nodejs
 
-🛡️ **Next Goal:** 
-Study Ethical Hacking & Cybersecurity.
+🛡️ **Next Goal** 
+Study Ethical Hacking & Cybersecurity
 
 ⚡ **Fun fact**  
 I love watching movies
