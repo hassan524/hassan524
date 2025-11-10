@@ -6,7 +6,7 @@ Web development and JavaScript.
 💬 **Ask me about**  
 Typescript, React, Nextjs, Nodejs
 
-🛡️ **Next Goal** 
+🛡️ **Next Goal**  
 Study Ethical Hacking & Cybersecurity
 
 ⚡ **Fun fact**  
