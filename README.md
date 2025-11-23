@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hassan!
 
-🔭 **I'm currently improving my skills**  
-Web development and JavaScript.  
+🔭 **I'm currently Learning**  
+LLM & Cloud
 
 💬 **Ask me about**  
 Typescript, React, Nextjs, Nodejs
