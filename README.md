@@ -103,24 +103,6 @@ const hassan = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan524&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=DC2626&text_color=ffffff&layout=compact" width="49%" />
 </div>
 
----
-
-## `> cat ./current-project`
-
-```bash
-  PROJECT   SheetSync
-  STATUS    █████████████████░░░  IN PROGRESS
-  STACK     Next.js · TypeScript · Node.js · PostgreSQL
-```
-
-> **SheetSync** — a real-time collaborative spreadsheet engine built from scratch.
-> Conflict-free sync, live cursors, formula evaluation, and keyboard-first UX.
-> Because Google Sheets shouldn't be the only option.
-
-[![SheetSync](https://img.shields.io/badge/⚡%20SheetSync-View%20on%20GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/hassan524/sheetsync)
-
----
-
 <div align="start">
 
 ```
