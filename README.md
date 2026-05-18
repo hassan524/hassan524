@@ -102,14 +102,3 @@ const hassan = {
   <img src="https://streak-stats.demolab.com?user=hassan524&theme=dark&hide_border=true&background=0d0d0d&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=DC2626&dates=666666&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan524&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=DC2626&text_color=ffffff&layout=compact" width="49%" />
 </div>
-
-<div align="start">
-
-```
-  "The kernel doesn't care about your feelings.
-   Write correct code or face the panic."
-```
-
-![](https://img.shields.io/badge/Built%20with-obsession%20%26%20caffeine-DC2626?style=for-the-badge&labelColor=0a0a0a)
-
-</div>
