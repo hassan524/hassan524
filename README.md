@@ -70,7 +70,7 @@ const hassan = {
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/%20Node.js%20-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=DC2626) ![NestJS](https://img.shields.io/badge/%20NestJS%20-0a0a0a?style=for-the-badge&logo=nestjs&logoColor=DC2626) ![Express.js](https://img.shields.io/badge/%20Express.js%20-0a0a0a?style=for-the-badge&logo=express&logoColor=DC2626) ![Socket.io](https://img.shields.io/badge/%20Socket.io%20-0a0a0a?style=for-the-badge&logo=socketdotio&logoColor=DC2626) ![Electron](https://img.shields.io/badge/%20Electron%20-0a0a0a?style=for-the-badge&logo=electron&logoColor=DC2626)
+![Node.js](https://img.shields.io/badge/%20Node.js%20-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=DC2626) ![NestJS](https://img.shields.io/badge/%20NestJS%20-0a0a0a?style=for-the-badge&logo=nestjs&logoColor=DC2626) ![Express.js](https://img.shields.io/badge/%20Express.js%20-0a0a0a?style=for-the-badge&logo=express&logoColor=DC2626)
 
 **Databases & Cloud**
 
@@ -78,7 +78,7 @@ const hassan = {
 
 **Tools**
 
-![Git](https://img.shields.io/badge/%20Git%20-0a0a0a?style=for-the-badge&logo=git&logoColor=DC2626) ![Docker](https://img.shields.io/badge/%20Docker%20-0a0a0a?style=for-the-badge&logo=docker&logoColor=DC2626) ![Linux](https://img.shields.io/badge/%20Linux%20-0a0a0a?style=for-the-badge&logo=linux&logoColor=DC2626)
+![Git](https://img.shields.io/badge/%20Git%20-0a0a0a?style=for-the-badge&logo=git&logoColor=DC2626) ![Docker](https://img.shields.io/badge/%20Docker%20-0a0a0a?style=for-the-badge&logo=docker&logoColor=DC2626)
 
 ---
 
