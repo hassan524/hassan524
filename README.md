@@ -100,3 +100,9 @@ const HassanRehan = {
 <div align="start">
   <img src="https://streak-stats.demolab.com?user=hassan524&theme=dark&hide_border=true&background=0d0d0d&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=DC2626&dates=666666&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
 </div>
+
+<br/>
+
+<div align="start">
+  <img src="https://github-profile-trophy.vercel.app/?username=hassan524&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" />
+</div>
