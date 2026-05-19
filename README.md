@@ -32,12 +32,11 @@
 ## `> whoami`
 
 ```typescript
-const hassan = {
-  role        : "Full-Stack Developer",
-  currentFocus: ["LLM Integration", "Cloud", "AI & Cybersecurity"],
-  sideQuests  : ["Ethical Hacking", "CTF Challenges", "Kernel Development"],
-  philosophy  : "A man who chases two rabbits catches neither. — Confucius",
-  openTo      : ["OSS contributions", "Cool projects", "Late-night tech convos"],
+const HassanRehan = {
+  location: "Pakistan",
+  role: "Developer",
+  currentFocus: ["Networking", "Cloud & AI", "Kernal Development"],
+  funFact: "I don’t stop at “it works” ",
 };
 ```
 
