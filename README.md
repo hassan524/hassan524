@@ -34,14 +34,14 @@
 ```typescript
 const HassanRehan = {
   location: "Pakistan",
-  role: "Developer",
-  currentFocus: ["Networking", "Cloud & AI", "Kernal Development"],
-  funFact: "I don’t stop at “it works” ",
+  role: "Full-Stack Developer",
+  currentFocus: ["SaaS Products", "AI-Powered Tools", "Open Source"],
+  funFact: "I don't stop at “it works”",
 };
 ```
 
-> I spend my days building full-stack projects and my nights exploring AI security, kernel internals, and network protocols.
-> Working my way from `userspace → kernel space → bare metal` — because knowing *how* things break makes you better at building things that don't.
+> I build full-stack products end-to-end — from database schema to pixel-perfect UI.
+> Currently shipping a collaborative spreadsheet app and an AI-powered video tool, with more side projects in the pipeline.
 
 ---
 
@@ -49,10 +49,10 @@ const HassanRehan = {
 
 ```bash
   PID   PROCESS                        STATUS
-  001   Next.js + TypeScript projects  ████████████████████  ACTIVE
-  002   LLM API integrations           ███████████████░░░░░  BUILDING
-  003   Cloud infra (AWS/GCP)          ████████████░░░░░░░░  LEARNING
-  004   AI Security & Kernel Dev       ████░░░░░░░░░░░░░░░░  EXPLORING
+  001   SheetSync (collab spreadsheet) ████████████████████  ACTIVE
+  002   AyahClip (AI video tool)       ███████████████░░░░░  BUILDING
+  003   Next.js + TypeScript projects  ████████████████░░░░  ACTIVE
+  004   Open Source Contributions      ██████████░░░░░░░░░░  ONGOING
 ```
 
 ---
@@ -78,20 +78,6 @@ const HassanRehan = {
 **Tools**
 
 ![Git](https://img.shields.io/badge/%20Git%20-0a0a0a?style=for-the-badge&logo=git&logoColor=DC2626) ![Docker](https://img.shields.io/badge/%20Docker%20-0a0a0a?style=for-the-badge&logo=docker&logoColor=DC2626)
-
----
-
-## `> exploring ./frontier/`
-
-```bash
-  DOMAIN                         INTEREST LEVEL
-  AI Security & LLM Safety       ████████████████░░░░  ACTIVE
-  Ethical Hacking / CTF          ██████████░░░░░░░░░░  LEARNING
-  Linux Kernel Development       ████████░░░░░░░░░░░░  EXPLORING
-```
-
-> Poking at the intersection of AI systems, security research, and low-level kernel internals.
-> From prompt injection to syscall tracing — understanding how things break at every layer.
 
 ---
 
