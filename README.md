@@ -21,9 +21,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/%20LinkedIn%20-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=DC2626)](https://linkedin.com/in/hassan524)
+[![LinkedIn](https://img.shields.io/badge/%20LinkedIn%20-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=DC2626)]([https://linkedin.com/in/hassan524](https://www.linkedin.com/in/hassan-rehan-075849283/))
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/%20Portfolio%20-0a0a0a?style=for-the-badge&logo=vercel&logoColor=DC2626)](https://hassan524.vercel.app)
+[![Portfolio](https://img.shields.io/badge/%20Portfolio%20-0a0a0a?style=for-the-badge&logo=vercel&logoColor=DC2626)]([https://hassan524.vercel.app](http://hassan-rehan-portfolio.vercel.app/))
 
 </div>
 
