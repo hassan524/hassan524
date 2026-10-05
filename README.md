@@ -38,13 +38,13 @@
 ```typescript
 const HassanRehan = {
   location: "Pakistan",
-  role: "Full-Stack Developer",
-  currentFocus: ["SaaS Products", "AI-Powered Tools", "Open Source"],
+  role: "Full Stack Developer",
+  currentFocus: ["Scalable SaaS", "AI-Powered Products", "Realtime Systems", "Tools for Developers"],
   funFact: "I don't stop at “it works”",
 };
 ```
 
-> I build full-stack products end-to-end — from database schema to pixel-perfect UI.
+> I build full stack products end-to-end — from database schema to pixel perfect UI.
 
 ---
 
