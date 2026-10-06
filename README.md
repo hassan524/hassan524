@@ -19,12 +19,6 @@
 
 <br/>
 
-![](https://img.shields.io/badge/OPEN%20TO-COLLABS-DC2626?style=for-the-badge&labelColor=0a0a0a)
-&nbsp;
-![](https://komarev.com/ghpvc/?username=hassan524&color=DC2626&style=for-the-badge&label=VIEWS)
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/%20LinkedIn%20-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=DC2626)](https://www.linkedin.com/in/hassan-rehan-075849283/)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/%20Portfolio%20-0a0a0a?style=for-the-badge&logo=vercel&logoColor=DC2626)](http://hassan-rehan-portfolio.vercel.app/)
