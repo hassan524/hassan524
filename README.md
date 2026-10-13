@@ -38,7 +38,7 @@ const HassanRehan = {
 };
 ```
 
-> I build full stack products end-to-end — from database schema to pixel perfect UI.
+> I like building full stack products. I love creating something myself and seeing my idea actually work
 
 ---
 
